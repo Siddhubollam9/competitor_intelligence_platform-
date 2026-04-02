@@ -15,5 +15,3 @@ AI-powered system that converts competitor signals into insights and GTM strateg
 - GTM strategy generation
 - Dashboard UI
 
-## Run Instructions
-[optional]
